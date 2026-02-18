@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iamsrikanthkv
 - 👀 I’m interested in Machine Learning,Data science projects
-- 🌱 I’m currently doing Masters in Data science in SMU,doing some projects on my own
 - 💞️ I’m looking to collaborate on doing Data science projects
 - 📫 How to reach me iamsrikanth.kv@gmail.com
 
